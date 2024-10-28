@@ -10,7 +10,7 @@
 # Contact Information:
 # For any issues or questions, please contact Marius Wernick at marius.wernick@gmail.com
 #=============================================================================================================================
-$Version="1_2"
+$Version=1
 
 # Define the usernames and corresponding passwords
 $UserMap = @{
